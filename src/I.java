@@ -3,4 +3,6 @@ public class I{
 		System.out.println("Added message from GitPractice");
 		System.out.println("Added message from GitPractice2");
 	}
+	public void User1(){
+		System.out.println("User1...");
 }
